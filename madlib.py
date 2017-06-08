@@ -1,0 +1,10 @@
+print('Enter a name')
+name = input()
+print('Enter a verb')
+verb = input()
+print('Enter an adjective')
+adj = input()
+print('Enter a singular noun')
+noun = input()
+
+print('There was once a person named ' + name + ' who ' + verb + ' a ' + adj + ' ' + noun + '.')
