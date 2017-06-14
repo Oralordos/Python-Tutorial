@@ -8,6 +8,7 @@ Create a program which will do this for a user. The code below will get the rand
 import random
 number = random.randint(1, 100)
 ```
+If the user does not enter a number, skip that guess without giving them any hints.
 
 Here is an example of how the flow should go.
 
@@ -33,13 +34,13 @@ Here is an example of how the flow should go.
 
 > Enter a guess (3 guesses left)
 
-> `55`
+> `55a`
 
-> Your guess is too low
+> That is not a number
 
 > Enter a guess (2 guesses left)
 
-> `57`
+> `55`
 
 > Your guess is too low
 
