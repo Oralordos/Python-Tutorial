@@ -1,7 +1,7 @@
 # Dictionary
-Create a program that gets the user's name, age, and height, then stores them in a dictionary.
+Create a program that gets the user's name, age, and height, storing them in a dictionary as you go.
 Make sure to confirm that the user has entered numbers for age and height before converting them into numbers.
-Then ask the user what they wish to see, and print that value.
+Then ask the user what they wish to see, and print that value. Do not use an if statement when choosing what to show.
 
 Example program flow from the point of view of the user:
 
