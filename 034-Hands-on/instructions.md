@@ -10,6 +10,6 @@ Example output:
 
 > multi(2, 3, 4) = 24
 
-> split(24) = 2, 22
+> split(24) = (2, 22)
 
 > combined(24) = 44
