@@ -14,3 +14,5 @@ o = Person('Joe', 15)
 
 p.sayHello()
 o.sayHello()
+
+p = None
